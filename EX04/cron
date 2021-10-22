@@ -1,0 +1,1 @@
+30 7 * * * bash  ~/scripts/bin/back.sh
